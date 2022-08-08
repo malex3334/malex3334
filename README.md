@@ -1,9 +1,13 @@
 <h1 align="center">Hello 👋, I'm Maciej!</h1>
-<h3 align="center">A passionate Frontend Developer from Poland</h3>
+<h4 align="center">A passionate Frontend Developer from Poland</h3>
 
-- 🌱 I’m currently learning **JavaScript and React**
+- 🌱 I’m currently learning **React**
 
-- 👨‍💻 All of my projects are available at [www.ma-temp-portfolio.netlify.app](www.ma-temp-portfolio.netlify.app)
+- 👀 I'm looking for first programming work experience
+
+- 👨‍💼 Currently working as a marketing specialist
+
+- 👨‍💻 All of my projects are available at *[www.ma-temp-portfolio.netlify.app](www.ma-temp-portfolio.netlify.app)*
 
 
 <h3 align="center">Languages and Tools:</h3>
